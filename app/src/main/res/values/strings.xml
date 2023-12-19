@@ -1,0 +1,47 @@
+<resources>
+    //login
+    <string name="app_name">LPGDemo</string>
+    <string name="hintPhoneNumber">Phone number </string>
+    <string name="prompt_password">Password</string>
+    <string name="txtSignUp">Sign Up</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtRemember">Remember me</string>
+    <string name="txtForgotpass"><i>Forgot your password?</i></string>
+
+
+    //signup
+    <string name="hintAddress">Address </string>
+
+    <string name="hintEmail">Email </string>
+    <string name="hintName">Name </string>
+    <string name="txtBirthday">Birthday (optional)</string>
+    <string name="hintPassword">Password </string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="txtAlreadyhaveacct"><i>Already have an account? Sign in</i></string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    //home
+    <string name="homeSizeZeroText"> 0 </string>
+    <string name="homeSizeMinusText"> - </string>
+    <string name="homeSizePlusText"> + </string>
+    <string name="homeSizeEqualsText"> = </string>
+    <string name="homeSizeKGsumText"> 0 </string>
+    <string name="homeSizeZeroHint"> 15kg </string>
+    <string name="homePriceText"> N </string>
+    <string name="homeDeliveryText">Delivery</string>
+    <string name="homeDelivery1Text">Home Service</string>
+    <string name="homeDelivery2Text">Come to our office</string>
+    <string name="homeMultilineText"> Extra Comments / Closest Landmark </string>
+</resources>
